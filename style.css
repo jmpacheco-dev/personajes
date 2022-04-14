@@ -116,7 +116,7 @@ hr {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 25px;
-  margin: 10px 0;
+  margin: 50px 0;
 }
 .news-cards img {
   width: 100%;
